@@ -1,0 +1,9 @@
+# Exclude large CSV datasets and binary/cache files from GitHub & Canvas ZIP
+*.csv
+*.tbl
+*.class
+*.pyc
+__pycache__/
+.venv/
+venv/
+.DS_Store
